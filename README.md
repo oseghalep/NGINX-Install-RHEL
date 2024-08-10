@@ -1,6 +1,11 @@
 # NGINX Installation on RHEL
 
-This repository contains detailed instructions to install and configure NGINX on a Red Hat Enterprise Linux (RHEL) server.
+Description
+This repository provides a step-by-step guide for installing and configuring NGINX on a Red Hat Enterprise Linux (RHEL) server. It covers the entire process from updating system packages, installing NGINX, configuring firewall settings, to enabling and managing the NGINX service.
+
+Additionally, the repository includes basic configuration tips, troubleshooting advice, and sample configuration files to help users customize their NGINX setup. Whether you're setting up a web server for the first time or need a quick reference for RHEL 9, this guide is designed to simplify the process.
+
+This description gives a clear idea of what the repository contains and its purpose, making it useful for anyone visiting your repository.
 
 ## Table of Contents
 1. [Prerequisites](#prerequisites)
